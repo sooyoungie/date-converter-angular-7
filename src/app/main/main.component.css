@@ -1,0 +1,27 @@
+.border {
+    border-style: groove;
+    width: 400px;
+    height: 400px;
+    padding: 1%;
+    align-items: center;
+
+}
+.block {
+    text-align: center;
+    margin: auto;
+}
+input {
+    width: 300px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 12px;
+}
+
+.validator {
+    border-bottom: 6px solid red;
+  background-color: lightgrey;
+}
